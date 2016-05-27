@@ -97,7 +97,7 @@ define( 'PLUGINDIR', $path_wp . '/wp-content/plugins' );
 define( 'UPLOADS', '../wp-content/uploads' );
 $theme_root = WP_CONTENT_DIR . '/themes'; 
 define( 'WP_CONTENT_URL', WP_HOME . '/wp-content' );
-define( 'WP_PLUGIN_URL', WP_HOME . '/wp-content' );
+define( 'WP_PLUGIN_URL', WP_HOME . '/wp-content/plugins' );
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
