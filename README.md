@@ -8,6 +8,5 @@
 
 * Ejecutar el comando `composer install`
 * Mover **wp-content/** del directorio **wp/** al directorio raíz.
-* (Para apache2) Modificar **.haccess** con el nombre del dominio a usar.
 * Crear archivo **.env** con la estructura de **.env.example**
 * Ejecutar en el navegador para hacer la instalación.
