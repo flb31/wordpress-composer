@@ -2,3 +2,4 @@ vendor/
 wp/
 composer.lock
 .env
+wp-content/uploads/
